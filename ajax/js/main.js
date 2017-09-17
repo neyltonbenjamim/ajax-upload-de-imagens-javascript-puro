@@ -1,3 +1,4 @@
+//Autor Neylton Benjamim
 var typeImgs = ['image/jpg','image/jpeg','image/png'];
 var images = document.querySelector("#file-img");
 var send = document.querySelector("#form-upload");
