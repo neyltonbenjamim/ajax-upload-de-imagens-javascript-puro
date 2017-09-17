@@ -3,7 +3,7 @@
 /**
  * Description of getImage
  *
- * @author Neylton
+ * @author Neylton Benjamim
  */
 class getImage {
 
